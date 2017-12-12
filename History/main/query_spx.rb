@@ -29,7 +29,7 @@ end
 def query_data(db, results)
   results.each { |doc|
     data = format_spx(doc)
-    puts "#{data[0]} => #{data[1]} #{data[2]} #{data[3]} #{data[4]} #{doc[:pcr]} #{doc[:put]} #{doc[:call]} #{doc[:vol]}"
+    puts "#{data[0]} => #{data[1]} #{data[2]} #{data[3]} #{data[4]} #{doc[:pcr]} #{doc[:put]} #{doc[:call]} #{doc[:vol]} #{doc[:t]}"
   }
 end
 
