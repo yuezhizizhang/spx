@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ef4a790-260e-491f-be00-960d64030953" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Database/journal/WiredTigerLog.0000000198" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Database/journal/WiredTigerLog.0000000256" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/WiredTiger.wt" afterPath="$PROJECT_DIR$/Database/WiredTiger.wt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/collection-0--6317646361501159061.wt" afterPath="$PROJECT_DIR$/Database/collection-0--6317646361501159061.wt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/collection-0-3190913417707562516.wt" afterPath="$PROJECT_DIR$/Database/collection-0-3190913417707562516.wt" />
@@ -11,9 +10,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/index-1-3190913417707562516.wt" afterPath="$PROJECT_DIR$/Database/index-1-3190913417707562516.wt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/mongod.lock" afterPath="$PROJECT_DIR$/Database/mongod.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/sizeStorer.wt" afterPath="$PROJECT_DIR$/Database/sizeStorer.wt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Charts/data.csv" afterPath="$PROJECT_DIR$/Charts/data.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/WiredTiger.turtle" afterPath="$PROJECT_DIR$/Database/WiredTiger.turtle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/History/main/query_spx.rb" afterPath="$PROJECT_DIR$/History/main/query_spx.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/History/main/save_spx.rb" afterPath="$PROJECT_DIR$/History/main/save_spx.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +23,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/spx@query_spx.coverage" NAME="query_spx Coverage Results" MODIFIED="1513032713733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/History/main" MODULE_NAME="spx" />
-    <SUITE FILE_PATH="coverage/spx@save_spx.coverage" NAME="save_spx Coverage Results" MODIFIED="1513032395528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/History/main" MODULE_NAME="spx" />
+    <SUITE FILE_PATH="coverage/spx@query_spx.coverage" NAME="query_spx Coverage Results" MODIFIED="1516747834636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/History/main" MODULE_NAME="spx" />
+    <SUITE FILE_PATH="coverage/spx@save_spx.coverage" NAME="save_spx Coverage Results" MODIFIED="1516747825199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/History/main" MODULE_NAME="spx" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -36,8 +35,8 @@
       <file leaf-file-name="save_spx.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/History/main/save_spx.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1188">
-              <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+            <state relative-caret-position="324">
+              <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -76,14 +75,19 @@
       <file leaf-file-name="query_spx.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/History/main/query_spx.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="24" column="47" lean-forward="false" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+            <state relative-caret-position="135">
+              <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>1.0</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -126,7 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -209,6 +212,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -422,22 +426,49 @@
       <workItem from="1512513698669" duration="352000" />
       <workItem from="1512686879055" duration="749000" />
       <workItem from="1513032223153" duration="628000" />
+      <workItem from="1513120363812" duration="66000" />
+      <workItem from="1513289932295" duration="349000" />
+      <workItem from="1513296320538" duration="616000" />
+      <workItem from="1513641740723" duration="513000" />
+      <workItem from="1513724634509" duration="383000" />
+      <workItem from="1513839450550" duration="60000" />
+      <workItem from="1514419322023" duration="216000" />
+      <workItem from="1514847216330" duration="202000" />
+      <workItem from="1514932298286" duration="27000" />
+      <workItem from="1515059653182" duration="68000" />
+      <workItem from="1515105302381" duration="421000" />
+      <workItem from="1515407143620" duration="60000" />
+      <workItem from="1515453487131" duration="37000" />
+      <workItem from="1515540285655" duration="402000" />
+      <workItem from="1515622149576" duration="39000" />
+      <workItem from="1515655018821" duration="43000" />
+      <workItem from="1515730585147" duration="620000" />
+      <workItem from="1515913126119" duration="339000" />
+      <workItem from="1516059031432" duration="641000" />
+      <workItem from="1516141807907" duration="1229000" />
+      <workItem from="1516145013849" duration="42000" />
+      <workItem from="1516150128390" duration="411000" />
+      <workItem from="1516260422377" duration="38000" />
+      <workItem from="1516315810818" duration="65000" />
+      <workItem from="1516618306712" duration="39000" />
+      <workItem from="1516663870342" duration="60000" />
+      <workItem from="1516747820901" duration="197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22525000" />
+    <option name="totallyTimeSpent" value="29708000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="3862" height="2122" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13489583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13489583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6763527" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6758517" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -856,16 +887,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/History/main/query_spx.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="24" column="47" lean-forward="false" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+        <state relative-caret-position="135">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/History/main/save_spx.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        <state relative-caret-position="324">
+          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
           <folding />
         </state>
       </provider>

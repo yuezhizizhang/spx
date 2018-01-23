@@ -41,5 +41,5 @@ def download_options_all(spx, db)
   }
 end
 
-#download_kseries(spx, db)
-download_options_all(spx, db)
+download_kseries(spx, db)
+download_options(spx, db)
