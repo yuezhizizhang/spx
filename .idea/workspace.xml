@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ef4a790-260e-491f-be00-960d64030953" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Database/journal/WiredTigerLog.0000000256" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Database/journal/WiredTigerLog.0000000283" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/WiredTiger.wt" afterPath="$PROJECT_DIR$/Database/WiredTiger.wt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/collection-0--6317646361501159061.wt" afterPath="$PROJECT_DIR$/Database/collection-0--6317646361501159061.wt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/collection-0-3190913417707562516.wt" afterPath="$PROJECT_DIR$/Database/collection-0-3190913417707562516.wt" />
@@ -13,7 +13,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Charts/data.csv" afterPath="$PROJECT_DIR$/Charts/data.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Database/WiredTiger.turtle" afterPath="$PROJECT_DIR$/Database/WiredTiger.turtle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/History/main/save_spx.rb" afterPath="$PROJECT_DIR$/History/main/save_spx.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,8 +22,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/spx@query_spx.coverage" NAME="query_spx Coverage Results" MODIFIED="1516747834636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/History/main" MODULE_NAME="spx" />
-    <SUITE FILE_PATH="coverage/spx@save_spx.coverage" NAME="save_spx Coverage Results" MODIFIED="1516747825199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/History/main" MODULE_NAME="spx" />
+    <SUITE FILE_PATH="coverage/spx@query_spx.coverage" NAME="query_spx Coverage Results" MODIFIED="1518139037096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/History/main" MODULE_NAME="spx" />
+    <SUITE FILE_PATH="coverage/spx@save_spx.coverage" NAME="save_spx Coverage Results" MODIFIED="1518138985440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/History/main" MODULE_NAME="spx" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -35,8 +34,8 @@
       <file leaf-file-name="save_spx.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/History/main/save_spx.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+            <state relative-caret-position="1548">
+              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -55,7 +54,7 @@
       <file leaf-file-name="spx.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/History/crawler/spx.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1161">
+            <state relative-caret-position="1548">
               <caret line="43" column="5" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
               <folding />
             </state>
@@ -65,7 +64,7 @@
       <file leaf-file-name="util.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/History/common/util.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
+            <state relative-caret-position="324">
               <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="20" />
               <folding />
             </state>
@@ -75,7 +74,7 @@
       <file leaf-file-name="query_spx.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/History/main/query_spx.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="180">
               <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
               <folding />
             </state>
@@ -110,10 +109,10 @@
     <handled-path value="$PROJECT_DIR$/Charts/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="y" value="-11" />
-    <option name="width" value="3862" />
-    <option name="height" value="2122" />
+    <option name="x" value="-16" />
+    <option name="y" value="-16" />
+    <option name="width" value="3872" />
+    <option name="height" value="2092" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -130,6 +129,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -213,7 +213,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -453,22 +452,27 @@
       <workItem from="1516618306712" duration="39000" />
       <workItem from="1516663870342" duration="60000" />
       <workItem from="1516747820901" duration="197000" />
+      <workItem from="1517130846192" duration="177000" />
+      <workItem from="1517268878733" duration="106000" />
+      <workItem from="1517351955710" duration="64000" />
+      <workItem from="1517538040962" duration="1323000" />
+      <workItem from="1518138814631" duration="291000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29708000" />
+    <option name="totallyTimeSpent" value="31669000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="3862" height="2122" extended-state="6" />
+    <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13489583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13489583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6758517" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.67509216" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -871,7 +875,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/History/common/util.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
+        <state relative-caret-position="324">
           <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="20" />
           <folding />
         </state>
@@ -879,7 +883,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/History/crawler/spx.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1161">
+        <state relative-caret-position="1548">
           <caret line="43" column="5" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
           <folding />
         </state>
@@ -887,7 +891,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/History/main/query_spx.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="180">
           <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
           <folding />
         </state>
@@ -895,8 +899,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/History/main/save_spx.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        <state relative-caret-position="1548">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding />
         </state>
       </provider>
